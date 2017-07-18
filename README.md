@@ -16,7 +16,11 @@ The next section is usage, in which you instruct other people on how to use your
 
 
 ### Contributing
-Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for (setting guidelines for repository contributors)[https://help.github.com/articles/setting-guidelines-for-repository-contributors/].
+Check the file contributing / contributing guidelines : follow best practices of MEAN implementation
+
+### Contributors
+Thank you to all our [contributors](https://github.com/AlexLeGeek/Cloudeas/graphs/contributors) ! 
+
 
 ### Credits
 Include a section for credits in order to highlight and link to the authors of your project.
@@ -24,11 +28,6 @@ Include a section for credits in order to highlight and link to the authors of y
 ### License
 Finally, include a section for the license of your project.
 
-### Markdown
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
