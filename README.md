@@ -26,32 +26,11 @@ Thank you to all our [contributors](https://github.com/AlexLeGeek/Cloudeas/graph
 You are welcome to become contributors and let your fingerprint here. 
 
 ### License
-This project is under [GNU General Public License v3.0](LICENSE) 
+This project is under [GNU General Public License v3.0](LICENSE), so be aware of that regarding copying, modifying and (re)distributing. 
 
+State changes: Change made to the code must be documented; [WIKI](wiki)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexLeGeek/Cloudeas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Keeping temp :  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
