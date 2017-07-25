@@ -16,17 +16,17 @@ The next section is usage, in which you instruct other people on how to use your
 
 
 ### Contributing
-Check the file contributing / contributing guidelines : follow best practices of MEAN implementation
+[Contributing](CONTRIBUTING.md) Link to get the project guidelines
 
 ### Contributors
 Thank you to all our [contributors](https://github.com/AlexLeGeek/Cloudeas/graphs/contributors) ! 
 
 
 ### Credits
-Include a section for credits in order to highlight and link to the authors of your project.
+You are welcome to become contributors and let your fingerprint here. 
 
 ### License
-Finally, include a section for the license of your project.
+This project is under [GNU General Public License v3.0](LICENSE) 
 
 
 ```markdown
