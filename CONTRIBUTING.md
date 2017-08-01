@@ -1,3 +1,18 @@
+# How to contribute
+// creating good issues or pull requests
+
+# code of conduct
+
+# Community and behavioral expectations
+
+# Summary
+
+# Submitting Changes
+
+# Documentation
+
+# Additional Resources
+
 First step of contributing page
  : follow best practices of MEAN implementation
  
